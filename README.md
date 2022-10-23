@@ -1,1 +1,1 @@
-# Parallax
+# Parallax project
